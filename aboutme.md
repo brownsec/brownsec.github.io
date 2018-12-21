@@ -10,4 +10,5 @@ My name is Harmeet Singh. I am in Cyber Security professional. I created this bl
 - I believe its not as hard as other make it sound like.
 
 ### What do know more?
-[Hit me up on Linkedin]: https://www.linkedin.com/in/harmeetgill/
+
+Lets see [Hit me up on Linkedin] (https://www.linkedin.com/in/harmeetgill/)
