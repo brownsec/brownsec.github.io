@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I will keep it Short and Sweet!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Harmeet Singh. I am in Cyber Security professional. I created this blog so I can force myself to document what I learn.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I believe in life long learning.
+- I believe its not as hard as other make it sound like.
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### What do know more?
+Hit me up on Linkedin
