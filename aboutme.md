@@ -12,4 +12,4 @@ My name is Harmeet Singh. I am in Cyber Security professional. I created this bl
 
 
 ### What do know more?
-Hit me up on Linkedin
+[Hit me up on Linkedin]: https://www.linkedin.com/in/harmeetgill/
