@@ -9,6 +9,6 @@ My name is Harmeet Singh. I am in Cyber Security professional. I created this bl
 - I believe in life-long learning.
 - I believe most stuff is not as hard as others make it sound like.
 
-### What do know more?
+### What to chat?
 
-Lets see [Hit me up on Linkedin] (https://www.linkedin.com/in/harmeetgill/)
+Hit me up on [Linkedin](https://www.linkedin.com/in/harmeetgill/) and we can go from there.
